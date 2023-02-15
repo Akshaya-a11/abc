@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.converter-body{
+
+    height: 250px;
+    width: 400px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 2px solid black;
+    position: absolute;
+}
+
+.converter-title{
+
+    margin: 25px;
+    text-align: center;
+    font-size: 25px;
+}
+
+input{
+    height: 25px;
+    width: 150px;
+    margin-left: 25px;
+}
+
+#inputType,#resultType{
+
+    
+    height: 25px;
+    margin-left: 25px;
+    width: 160px;
+}
